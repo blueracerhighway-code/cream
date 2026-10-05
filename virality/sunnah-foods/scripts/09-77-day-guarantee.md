@@ -37,14 +37,14 @@ SAY: In Islam, we're taught to be easy and lenient in business. The Prophet, pea
 SCREEN: SAHIH AL-BUKHARI 2076
 VISUAL: Plain text card with the hadith and reference / face
 
-### 5. CTA (0:33.4-0:36.4)
+### 5. SERIES (0:33.4-0:40.5)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 6. CTA (0:40.5-0:43.5)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, a beat of silence before this line
-
-### 6. SERIES (0:36.4-0:43.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 

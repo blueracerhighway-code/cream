@@ -42,14 +42,14 @@ SAY: Then one campaign made back two times what it spent. Now I run my own, and 
 SCREEN: ~2 SALES A DAY
 VISUAL: Orders page / packing two boxes
 
-### 6. CTA (0:36.4-0:39.4)
+### 6. SERIES (0:36.4-0:43.5)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 7. CTA (0:43.5-0:46.5)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 7. SERIES (0:39.4-0:46.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 

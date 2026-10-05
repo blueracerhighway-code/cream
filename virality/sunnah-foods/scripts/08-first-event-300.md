@@ -47,14 +47,14 @@ SAY: That one made about $1,200. Same honey. I just didn't stop after the slow o
 SCREEN: ~$1,200
 VISUAL: Busy table / jars going into bags
 
-### 7. CTA (0:27.8-0:30.8)
+### 7. SERIES (0:27.8-0:34.9)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 8. CTA (0:34.9-0:37.9)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 8. SERIES (0:30.8-0:37.9)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 

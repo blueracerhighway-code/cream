@@ -47,14 +47,14 @@ SAY: Now it's creamed at a partner Alberta honey farm, to my ratios.
 SCREEN: PARTNER ALBERTA FARM
 VISUAL: Farm creaming machine / finished jar
 
-### 7. CTA (0:33-0:36)
+### 7. SERIES (0:33-0:40.1)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 8. CTA (0:40.1-0:43.1)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 8. SERIES (0:36-0:43.1)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 

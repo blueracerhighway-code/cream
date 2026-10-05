@@ -137,7 +137,7 @@ SCRIPTS = [
              "FINE GROUND + RAW HONEY", "Grinder / creamy texture pull / jar label ingredients"),
             ("STEP", "One spoon in the morning. Or in your coffee.", "1 SPOON A DAY", "Spoon into coffee / spoon after Fajr, window light"),
             ("CTA", CTA, 'Comment "HONEY"', "Face full frame"),
-            ("SERIES", SERIES_PRIMARY, "", "Jar placed in a row, separate beat"),
+            ("SERIES", SERIES_PRIMARY, "", "Jar placed in a row"),
         ],
         caption=["Comment HONEY and I'll send you the link.",
                  "Black seed (Nigella sativa, kalonji, habbat al-barakah) is clinically studied for gut issues, joint pain and immunity.",
@@ -284,6 +284,8 @@ def ts(seconds):
 
 
 def render(sc, n):
+    # CTA is always the last beat; the series line sits right before it
+    sc["beats"] = [b for b in sc["beats"] if b[0] != "CTA"] + [b for b in sc["beats"] if b[0] == "CTA"]
     timing = time_lines([b[1] for b in sc["beats"]])
     total = timing["total"]
     out = [f"# Script {n:02d}: {sc['title']}", "",

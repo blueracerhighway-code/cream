@@ -47,14 +47,14 @@ SAY: Small formula mistakes become huge problems. Now precision is everything.
 SCREEN: PRECISION > SPEED
 VISUAL: Scale reading / labeled jars lined up
 
-### 7. CTA (0:34.1-0:37.1)
+### 7. SERIES (0:34.1-0:41.2)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 8. CTA (0:41.2-0:44.2)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, jar in hand
-
-### 8. SERIES (0:37.1-0:44.2)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 

@@ -47,14 +47,14 @@ SAY: Later, once there was a label, another brother became one of my first offic
 SCREEN: FIRST OFFICIAL CUSTOMER
 VISUAL: Labeled jar now / shelf of jars
 
-### 7. CTA (0:30.8-0:33.8)
+### 7. SERIES (0:30.8-0:37.9)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 8. CTA (0:37.9-0:40.9)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 8. SERIES (0:33.8-0:40.9)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 

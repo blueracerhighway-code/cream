@@ -47,14 +47,14 @@ SAY: But telling them business can work isn't enough. The only real proof is res
 SCREEN: PROOF = RESULTS
 VISUAL: Face, close
 
-### 7. CTA (0:30.8-0:33.8)
+### 7. SERIES (0:30.8-0:38.2)
+SAY: This is day X of building a honey company with my sister in my parents' house. Y jars to go.
+VISUAL: Sister's hands labeling jars (with her OK) / jar placed in a row
+
+### 8. CTA (0:38.2-0:41.2)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 8. SERIES (0:33.8-0:41.2)
-SAY: This is day X of building a honey company with my sister in my parents' house. Y jars to go.
-VISUAL: Sister's hands labeling jars (with her OK) / jar placed in a row
 
 ## Caption
 

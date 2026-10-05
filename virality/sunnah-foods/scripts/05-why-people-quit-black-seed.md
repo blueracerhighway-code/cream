@@ -47,14 +47,14 @@ SAY: One spoon in the morning. Or in your coffee.
 SCREEN: 1 SPOON A DAY
 VISUAL: Spoon into coffee / spoon after Fajr, window light
 
-### 7. CTA (0:36-0:39)
+### 7. SERIES (0:36-0:43.1)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 8. CTA (0:43.1-0:46.1)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 8. SERIES (0:39-0:46.1)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row, separate beat
 
 ## Caption
 

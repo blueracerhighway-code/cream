@@ -42,14 +42,14 @@ SAY: I'm not in it for the quick fast money. I want this to be a family business
 SCREEN: LONG GAME
 VISUAL: Sister labeling jars (if she's OK on camera) / shelf of finished jars
 
-### 6. CTA (0:33.4-0:36.4)
+### 6. SERIES (0:33.4-0:40.5)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Hands placing one jar on a row, cut on the last word
+
+### 7. CTA (0:40.5-0:43.5)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, jar beside the head
-
-### 7. SERIES (0:36.4-0:43.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Hands placing one jar on a row, cut on the last word
 
 ## Caption
 

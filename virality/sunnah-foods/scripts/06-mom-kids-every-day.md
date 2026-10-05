@@ -42,14 +42,14 @@ SAY: Quick note. Honey is never for babies under one.
 SCREEN: NOT FOR BABIES UNDER 1
 VISUAL: Plain text card, held 2 seconds
 
-### 6. CTA (0:28.9-0:31.9)
+### 6. SERIES (0:28.9-0:36)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 7. CTA (0:36-0:39)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
-
-### 7. SERIES (0:31.9-0:39)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
-VISUAL: Jar placed in a row
 
 ## Caption
 
