@@ -1,7 +1,7 @@
 # Script 17: 1 spoon, 4 ways
 
 - platform: Reels, TikTok, Shorts
-- length: 35.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 43.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The List (hookscore 78.2 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: Part 4 how to use it + safety notes (Master Script Source Document)
@@ -52,12 +52,17 @@ SAY: Quick notes. Not for babies under one. If you're pregnant, diabetic, or on 
 SCREEN: SAFETY FIRST
 VISUAL: Plain text card: not for babies under 1 / pregnant, diabetic or on medication: ask your doctor
 
-### 8. SERIES (0:25.1-0:32.2)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 8. BRIDGE (0:25.1-0:28.5)
+SAY: If you only try 1, start with the croissant.
+SCREEN: START WITH #4
+VISUAL: Croissant bite
+
+### 9. SERIES (0:28.5-0:37.1)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 9. CTA (0:32.2-0:35.2)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:37.1-0:43.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, croissant in hand
 

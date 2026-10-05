@@ -1,7 +1,7 @@
 # Script 23: You've tried 5 things
 
 - platform: Reels, TikTok, Shorts
-- length: 39.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 49.1s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 50.4 OK, payoff LEADS)
 - keyword: HONEY
 - story: Problem: "I've tried everything" (Part 6) (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: Black seed is clinically studied for gut issues, joint pain, and immunity w
 SCREEN: A FOOD, NOT A PILL
 VISUAL: Study citation card / spoon on toast
 
-### 7. SERIES (0:29.2-0:36.4)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:29.2-0:33.8)
+SAY: If nothing else has stuck, try something you actually look forward to.
+SCREEN: SOMETHING YOU'LL KEEP
+VISUAL: Jar / spoon on toast
+
+### 8. SERIES (0:33.8-0:42.4)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:36.4-0:39.4)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:42.4-0:49.1)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

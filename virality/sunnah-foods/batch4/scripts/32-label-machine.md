@@ -1,7 +1,7 @@
 # Script 32: The $500 label machine
 
 - platform: Reels, TikTok, Shorts
-- length: 45.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 58.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 80.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-23e (connects to S-23c) (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: So right now, it's labeling by hand. The jars are slightly uneven, so some 
 SCREEN: BACK TO HANDS
 VISUAL: Peeling a crooked label / reapplying / sister's hands, with her OK
 
-### 7. SERIES (0:35.6-0:42.7)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. LANDING (0:35.6-0:38.6)
+SAY: Next goal is a fully automatic labeling machine.
+SCREEN: NEXT: AUTO LABELER
+VISUAL: Face / crooked label
+
+### 8. BRIDGE (0:38.6-0:44.6)
+SAY: Every jar gets me a little closer. Follow along to see when I finally get it.
+SCREEN: FOLLOW ALONG
+VISUAL: Jar placed on a row
+
+### 9. SERIES (0:44.6-0:52.1)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:42.8-0:45.8)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:52.1-0:58.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

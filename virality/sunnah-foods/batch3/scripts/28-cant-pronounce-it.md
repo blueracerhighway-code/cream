@@ -1,7 +1,7 @@
 # Script 28: If you can't pronounce it
 
 - platform: Reels, TikTok, Shorts
-- length: 45.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 54.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 79.3 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: Problem: processed 'health' products (Part 5 unpopular opinions) (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: No artificial preservatives. The closer your food is to its natural state, 
 SCREEN: NO ARTIFICIAL PRESERVATIVES
 VISUAL: Label close-up / spoon pull
 
-### 7. SERIES (0:35.2-0:42.4)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:35.2-0:39)
+SAY: Count the ingredients in yours. Then try 1 with 4.
+SCREEN: COUNT YOURS
+VISUAL: Package flipped / this jar
+
+### 8. SERIES (0:39-0:47.6)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:42.4-0:45.4)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:47.6-0:54.4)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

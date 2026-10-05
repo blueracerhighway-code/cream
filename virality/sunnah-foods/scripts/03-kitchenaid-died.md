@@ -1,7 +1,7 @@
 # Script 03: The KitchenAid that died
 
 - platform: Reels, TikTok, Shorts
-- length: 43.1s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 60.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Time Anchor (hookscore 77.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-13 (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: Now it's creamed at a partner Alberta honey farm, to my ratios.
 SCREEN: PARTNER ALBERTA FARM
 VISUAL: Farm creaming machine / finished jar
 
-### 7. SERIES (0:33-0:40.1)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. LANDING (0:33-0:37.5)
+SAY: When I do something, I like to do it properly. No compromises.
+SCREEN: NO COMPROMISES
+VISUAL: Face, close
+
+### 8. BRIDGE (0:37.5-0:45.8)
+SAY: From a dead KitchenAid in my apartment to a jar you can order today. Follow along to see where it goes next.
+SCREEN: APARTMENT -> YOUR DOOR
+VISUAL: Old kitchen / finished jar / shipping box
+
+### 9. SERIES (0:45.8-0:53.2)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:40.1-0:43.1)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:53.2-1:00)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

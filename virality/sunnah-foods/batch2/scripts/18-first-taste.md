@@ -1,7 +1,7 @@
 # Script 18: First taste reactions
 
 - platform: Reels, TikTok, Shorts
-- length: 41.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 53.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Myth-buster + reaction (hookscore 54.4 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-31 + Part 4 taste (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: You still taste the black seed here. It's just balanced with the natural sw
 SCREEN: STILL BLACK SEED. BALANCED.
 VISUAL: Spoon pull in slow motion / jar
 
-### 7. SERIES (0:31.5-0:38.6)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:31.5-0:37.9)
+SAY: If you've been avoiding black seed because of the taste, I'd love to see your reaction too.
+SCREEN: YOUR REACTION NEXT
+VISUAL: Face / jar held out
+
+### 8. SERIES (0:37.9-0:46.5)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:38.6-0:41.6)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:46.5-0:53.2)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

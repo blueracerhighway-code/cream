@@ -1,7 +1,7 @@
 # Script 14: 0 cream in creamed honey
 
 - platform: Reels, TikTok, Shorts
-- length: 45.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 55.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Impossible Claim / myth (hookscore 83.0 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: Part 5 what creamed honey is (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: I chose creamed because it makes black seed something you look forward to e
 SCREEN: SOMETHING TO LOOK FORWARD TO
 VISUAL: Spoon pull / croissant bite
 
-### 7. SERIES (0:34.9-0:42)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:34.9-0:40.1)
+SAY: If you've never tried creamed honey, this is a good 1 to start with.
+SCREEN: NEVER TRIED IT?
+VISUAL: Spoon pull / face
+
+### 8. SERIES (0:40.1-0:48.7)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:42-0:45)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:48.8-0:55.5)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

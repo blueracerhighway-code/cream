@@ -1,7 +1,7 @@
 # Script 09: Why 77 days
 
 - platform: Reels, TikTok, Shorts
-- length: 43.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 50.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Contrarian Flip (hookscore 77.2 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-56 (connects to S-55) (Master Script Source Document)
@@ -37,11 +37,16 @@ SAY: In Islam, we're taught to be easy and lenient in business. The Prophet, pea
 SCREEN: SAHIH AL-BUKHARI 2076
 VISUAL: Plain text card with the hadith and reference / face
 
-### 5. SERIES (0:33.4-0:40.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 5. BRIDGE (0:33.4-0:40.1)
+SAY: So try it. If it's not for you, you've got 77 days to get your money back.
+SCREEN: 77 DAYS TO DECIDE
+VISUAL: Face, calm / jar
+
+### 6. SERIES (0:40.1-0:47.6)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 6. CTA (0:40.5-0:43.5)
+### 7. CTA (0:47.6-0:50.6)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, a beat of silence before this line

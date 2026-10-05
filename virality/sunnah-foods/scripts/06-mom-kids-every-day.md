@@ -1,7 +1,7 @@
 # Script 06: Her kids eat it every day
 
 - platform: Reels, TikTok, Shorts
-- length: 39.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 49.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Customer report (family/heritage) (hookscore 51.8 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-34 (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: Quick note. Honey is never for babies under one.
 SCREEN: NOT FOR BABIES UNDER 1
 VISUAL: Plain text card, held 2 seconds
 
-### 6. SERIES (0:28.9-0:36)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:28.9-0:34.5)
+SAY: If your kids won't touch black seed, this is the one to try with them.
+SCREEN: TRY IT WITH YOUR KIDS
+VISUAL: Toast on a plate / jar
+
+### 7. SERIES (0:34.5-0:43.1)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:36-0:39)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:43.1-0:49.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

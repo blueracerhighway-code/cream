@@ -1,7 +1,7 @@
 # Script 33: The $6,000 machine
 
 - platform: Reels, TikTok, Shorts
-- length: 43.1s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 56.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 80.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-18 (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: Didn't have $6,000. Found another way.
 SCREEN: FOUND ANOTHER WAY
 VISUAL: Finished jar / face
 
-### 7. SERIES (0:33-0:40.1)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. LANDING (0:33-0:36.4)
+SAY: One day, I want to own machines like that.
+SCREEN: ONE DAY
+VISUAL: Photo of a creaming machine
+
+### 8. BRIDGE (0:36.4-0:42)
+SAY: Every jar gets me a little closer. Follow along and see if I get there.
+SCREEN: FOLLOW ALONG
+VISUAL: Face, close
+
+### 9. SERIES (0:42-0:49.5)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:40.1-0:43.1)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:49.5-0:56.2)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

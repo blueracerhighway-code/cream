@@ -1,7 +1,7 @@
 # Script 36: 2 jobs, home at midnight
 
 - platform: Reels, TikTok, Shorts
-- length: 36.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 46.1s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 54.5 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-03 (Master Script Source Document)
@@ -42,12 +42,22 @@ SAY: That money is what's in this business now.
 SCREEN: IT'S ALL IN HERE
 VISUAL: Jars / boxes
 
-### 6. SERIES (0:25.9-0:33)
-SAY: This is day X of making back the money I was supposed to get married with. Y jars left.
+### 6. LANDING (0:25.9-0:29.3)
+SAY: Now I'm working to earn all of it back.
+SCREEN: EARNING IT BACK
+VISUAL: Jar row
+
+### 7. BRIDGE (0:29.2-0:31.9)
+SAY: Follow along to see if I do.
+SCREEN: WILL I?
+VISUAL: Face, close
+
+### 8. SERIES (0:31.9-0:39.4)
+SAY: Anyways, this is day X of making back the money I was supposed to get married with. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:33-0:36)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:39.4-0:46.1)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

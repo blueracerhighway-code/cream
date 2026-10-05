@@ -1,7 +1,7 @@
 # Script 04: My first sale was $7
 
 - platform: Reels, TikTok, Shorts
-- length: 40.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 54.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Payoff (small number) (hookscore 81.4 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-15c (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: Later, once there was a label, another brother became one of my first offic
 SCREEN: FIRST OFFICIAL CUSTOMER
 VISUAL: Labeled jar now / shelf of jars
 
-### 7. SERIES (0:30.8-0:37.9)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. LANDING (0:30.8-0:34.5)
+SAY: That brother paid $7 for honey with no label.
+SCREEN: $7. NO LABEL.
+VISUAL: Unlabeled jar
+
+### 8. BRIDGE (0:34.5-0:40.1)
+SAY: The version you can get now has the label, the proper recipe, and a guarantee.
+SCREEN: NOW: LABEL. RECIPE. GUARANTEE.
+VISUAL: Labeled jar turned to camera
+
+### 9. SERIES (0:40.1-0:47.6)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:37.9-0:40.9)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:47.6-0:54.4)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

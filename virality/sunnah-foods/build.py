@@ -7,6 +7,11 @@ import json
 import os
 import subprocess
 
+sys_path = os.path.dirname(os.path.abspath(__file__))
+import sys  # noqa: E402
+sys.path.insert(0, sys_path)
+import endings  # noqa: E402
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 TOOLS = os.path.expanduser("~/.claude/skills/virality/tools")
 WPM = 160  # assumed calm pace; replace with his measured pace once we have a video of him
@@ -286,6 +291,9 @@ def ts(seconds):
 def render(sc, n):
     # CTA is always the last beat; the series line sits right before it
     sc["beats"] = [b for b in sc["beats"] if b[0] != "CTA"] + [b for b in sc["beats"] if b[0] == "CTA"]
+    if not sc.get("_ended"):
+        sc["beats"] = endings.apply(sc)["beats"]
+        sc["_ended"] = True
     timing = time_lines([b[1] for b in sc["beats"]])
     total = timing["total"]
     out = [f"# Script {n:02d}: {sc['title']}", "",

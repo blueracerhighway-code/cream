@@ -1,7 +1,7 @@
 # Script 20: Why 6 jars
 
 - platform: Reels, TikTok, Shorts
-- length: 45.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 52.1s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Payoff (offer) (hookscore 81.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: Part 4 offer + S-55 (Master Script Source Document)
@@ -47,11 +47,16 @@ SAY: No countdown timer. Just the honest math.
 SCREEN: JUST THE MATH
 VISUAL: Face, close
 
-### 7. SERIES (0:35.2-0:42.4)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:35.2-0:40.5)
+SAY: If you're going to try it properly, 6 jars is how I'd do it.
+SCREEN: TRY IT PROPERLY
+VISUAL: Six jars lined up
+
+### 8. SERIES (0:40.5-0:49.1)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:42.4-0:45.4)
+### 9. CTA (0:49.1-0:52.1)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, six jars behind

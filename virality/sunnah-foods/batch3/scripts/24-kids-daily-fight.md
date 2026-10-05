@@ -1,7 +1,7 @@
 # Script 24: Kids and black seed
 
 - platform: Reels, TikTok, Shorts
-- length: 45.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 55.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 66.4 OK, payoff LEADS)
 - keyword: HONEY
 - story: Problem: parents who can't get kids to take black seed (Part 6, S-34) (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: 1 mom told me her kids now eat it every day, because they like the taste. N
 SCREEN: NOT FOR BABIES UNDER 1
 VISUAL: Toast on a kid's plate / text card: not for babies under 1
 
-### 6. SERIES (0:35.2-0:42.4)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:35.2-0:40.5)
+SAY: If your kids fight you on black seed, try this with them this week.
+SCREEN: TRY IT THIS WEEK
+VISUAL: Breakfast table / jar
+
+### 7. SERIES (0:40.5-0:49.1)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:42.4-0:45.4)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:49.1-0:55.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

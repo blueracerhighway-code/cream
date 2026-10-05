@@ -1,7 +1,7 @@
 # Script 25: The bees behind your honey
 
 - platform: Reels, TikTok, Shorts
-- length: 40.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 49.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 77.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: Problem: trust: is it really raw? (Part 6, S-21, S-23) (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: I even turned down a supplier that makes thousands of kilos a season. The h
 SCREEN: NEVER MADE FROM SUGAR WATER
 VISUAL: Jar / creamy spoon pull
 
-### 6. SERIES (0:30.4-0:37.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:30.4-0:34.5)
+SAY: If you want honey you can actually trace, this is it.
+SCREEN: HONEY YOU CAN TRACE
+VISUAL: Hives / jar
+
+### 7. SERIES (0:34.5-0:43.1)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:37.5-0:40.5)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:43.1-0:49.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

@@ -1,7 +1,7 @@
 # Script 29: Another candle for your mom?
 
 - platform: Reels, TikTok, Shorts
-- length: 39.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 48.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 78.0 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: Problem: what to gift your mother (S-40) (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: A lot of moms already know black seed. This is a version that actually tast
 SCREEN: SHE KNOWS BLACK SEED
 VISUAL: Jar beside a teapot / wrapped box
 
-### 6. SERIES (0:29.2-0:36.4)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:29.2-0:33)
+SAY: Next time you're stuck on a gift, skip the candle.
+SCREEN: SKIP THE CANDLE
+VISUAL: Candle pushed aside / wrapped jar
+
+### 7. SERIES (0:33-0:41.6)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:36.4-0:39.4)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:41.6-0:48.4)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

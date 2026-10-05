@@ -1,7 +1,7 @@
 # Script 22: You're failing at 1 spoon a day
 
 - platform: Reels, TikTok, Shorts
-- length: 43.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 51.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 63.7 OK, payoff LEADS)
 - keyword: HONEY
 - story: Problem: consistency (Part 7 compliance gap) (Master Script Source Document)
@@ -47,11 +47,16 @@ SAY: 1 spoon, about 10 grams. Attach it to what you already do. On toast. In you
 SCREEN: TOAST. TEA. COFFEE.
 VISUAL: Toast / tea / coffee, one second each
 
-### 7. SERIES (0:33.4-0:40.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:33.4-0:39.4)
+SAY: Give it 77 days. If it doesn't fit your routine, you get your money back.
+SCREEN: GIVE IT 77 DAYS
+VISUAL: Calendar / jar
+
+### 8. SERIES (0:39.4-0:48)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:40.5-0:43.5)
+### 9. CTA (0:48-0:51)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame

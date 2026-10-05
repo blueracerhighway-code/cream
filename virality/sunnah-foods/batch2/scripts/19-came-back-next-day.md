@@ -1,7 +1,7 @@
 # Script 19: She came back the next day
 
 - platform: Reels, TikTok, Shorts
-- length: 35.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 44.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Customer report (hookscore 50.5 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-32 (Master Script Source Document)
@@ -42,11 +42,16 @@ SAY: That's her experience, not a promise. Everyone's different, and consistency
 SCREEN: HER EXPERIENCE
 VISUAL: Face, calm / jar on the table
 
-### 6. SERIES (0:25.5-0:32.6)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:25.5-0:32.6)
+SAY: I can't promise you'll feel what she felt. But you've got 77 days to try it for yourself.
+SCREEN: 77 DAYS TO TRY IT
+VISUAL: Face, calm / jar
+
+### 7. SERIES (0:32.6-0:41.2)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:32.6-0:35.6)
+### 8. CTA (0:41.2-0:44.2)
 SAY: Comment HONEY and I'll send you the link.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame

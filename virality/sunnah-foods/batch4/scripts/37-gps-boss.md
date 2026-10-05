@@ -1,7 +1,7 @@
 # Script 37: The boss who hated GPS
 
 - platform: Reels, TikTok, Shorts
-- length: 34.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 59.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 81.4 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-05 (Master Script Source Document)
@@ -42,12 +42,32 @@ SAY: About 30 minutes later, he realized we were going to the wrong address.
 SCREEN: 30 MINUTES LATER
 VISUAL: Clock jump / face, deadpan
 
-### 6. SERIES (0:24.4-0:31.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. STEP (0:24.4-0:30.8)
+SAY: Then he got mad and yelled, why didn't you tell me we were going the wrong way?
+SCREEN: "WHY DIDN'T YOU TELL ME?"
+VISUAL: Face, deadpan
+
+### 7. STEP (0:30.8-0:36.4)
+SAY: I did tell him. Once. He just kept going on and on, and never stopped.
+SCREEN: I DID. ONCE.
+VISUAL: Face, long blink / slow zoom
+
+### 8. LANDING (0:36.4-0:41.6)
+SAY: Moments like that are why I'll never go back to working for someone else.
+SCREEN: NEVER AGAIN
+VISUAL: Face, close
+
+### 9. BRIDGE (0:41.6-0:45)
+SAY: I'd rather build my future making money for myself.
+SCREEN: BUILDING MY OWN
+VISUAL: Jar row / labeling
+
+### 10. SERIES (0:45-0:52.5)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:31.5-0:34.5)
-SAY: Comment HONEY and I'll send you the link.
+### 11. CTA (0:52.5-0:59.2)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

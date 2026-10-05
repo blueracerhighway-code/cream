@@ -1,7 +1,7 @@
 # Script 12: 4 ingredients
 
 - platform: Reels, TikTok, Shorts
-- length: 29.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 39.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The List (hookscore 50.6 OK, payoff LEADS)
 - keyword: HONEY
 - story: Part 4 product facts + Part 5 health habit (Master Script Source Document)
@@ -52,12 +52,17 @@ SAY: If you wouldn't eat the ingredient by itself, question why it's in your foo
 SCREEN: WOULD YOU EAT IT ALONE?
 VISUAL: Face / spoon pull
 
-### 8. SERIES (0:19.1-0:26.2)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 8. BRIDGE (0:19.1-0:24)
+SAY: Flip over whatever's in your pantry and count. Then try 1 with 4.
+SCREEN: COUNT YOURS
+VISUAL: Hand flipping a pantry jar / then this jar
+
+### 9. SERIES (0:24-0:32.6)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 9. CTA (0:26.2-0:29.2)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:32.6-0:39.4)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

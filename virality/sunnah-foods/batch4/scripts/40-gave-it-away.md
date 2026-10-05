@@ -1,7 +1,7 @@
 # Script 40: Thousands given away
 
 - platform: Reels, TikTok, Shorts
-- length: 42.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 52.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 78.0 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-14 (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: That's my 1 piece of business advice. Solve a real problem. Give it away un
 SCREEN: GIVE IT AWAY FIRST
 VISUAL: Face, close / jar
 
-### 6. SERIES (0:32.6-0:39.7)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:32.6-0:38.2)
+SAY: That's exactly what I did with this honey. Now it's your turn to try it.
+SCREEN: YOUR TURN
+VISUAL: Jar handed toward camera
+
+### 7. SERIES (0:38.2-0:45.8)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:39.8-0:42.8)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:45.8-0:52.5)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

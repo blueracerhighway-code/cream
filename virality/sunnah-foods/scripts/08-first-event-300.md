@@ -1,7 +1,7 @@
 # Script 08: First event vs second event
 
 - platform: Reels, TikTok, Shorts
-- length: 37.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 52.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Before and After (hookscore 84.4 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-27 + S-27a (card says they connect) (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: That one made about $1,200. Same honey. I just didn't stop after the slow o
 SCREEN: ~$1,200
 VISUAL: Busy table / jars going into bags
 
-### 7. SERIES (0:27.8-0:34.9)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. LANDING (0:27.8-0:34.9)
+SAY: If you never made it to one of my events, you don't have to wait for the next one.
+SCREEN: MISSED THE EVENTS?
+VISUAL: Event table photo
+
+### 8. BRIDGE (0:34.9-0:38.6)
+SAY: It ships across Canada, usually in 2 to 5 days.
+SCREEN: SHIPS ACROSS CANADA
+VISUAL: Box taped / shipping label
+
+### 9. SERIES (0:38.6-0:46.1)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:34.9-0:37.9)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:46.1-0:52.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

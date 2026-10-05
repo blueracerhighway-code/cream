@@ -1,7 +1,7 @@
 # Script 26: Joint pain and 1 more pill
 
 - platform: Reels, TikTok, Shorts
-- length: 46.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 56.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 50.7 OK, payoff LEADS)
 - keyword: HONEY
 - story: Problem: joint pain and trying everything (current ad focus, Part 6) (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: It's a food, not a replacement for anything your doctor gave you. If you're
 SCREEN: A FOOD. ASK YOUR DOCTOR.
 VISUAL: Face, calm / text card
 
-### 6. SERIES (0:36.4-0:43.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:36.4-0:40.9)
+SAY: If the taste was what made you quit, try it this way.
+SCREEN: TRY IT THIS WAY
+VISUAL: Spoon pull / jar
+
+### 7. SERIES (0:40.9-0:49.5)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:43.5-0:46.5)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:49.5-0:56.2)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

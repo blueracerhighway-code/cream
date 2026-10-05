@@ -1,7 +1,7 @@
 # Script 01: I lose $25 on one jar
 
 - platform: Reels, TikTok, Shorts
-- length: 43.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 58.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Cost (hookscore 87.0 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-55 (Master Script Source Document)
@@ -42,12 +42,22 @@ SAY: I'm not in it for the quick fast money. I want this to be a family business
 SCREEN: LONG GAME
 VISUAL: Sister labeling jars (if she's OK on camera) / shelf of finished jars
 
-### 6. SERIES (0:33.4-0:40.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. LANDING (0:33.4-0:40.9)
+SAY: So when you buy your first jar, I'm not trying to make money off you. I'm hoping you come back.
+SCREEN: I'M HOPING YOU COME BACK
+VISUAL: Face, close / jar handed toward camera
+
+### 7. BRIDGE (0:40.9-0:44.3)
+SAY: Follow along to see if the bet pays off.
+SCREEN: WILL IT PAY OFF?
+VISUAL: Face, small smile
+
+### 8. SERIES (0:44.2-0:51.8)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Hands placing one jar on a row, cut on the last word
 
-### 7. CTA (0:40.5-0:43.5)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:51.8-0:58.5)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, jar beside the head
 

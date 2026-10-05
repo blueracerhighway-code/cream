@@ -1,7 +1,7 @@
 # Script 11: Quit the oil, kept the seed
 
 - platform: Reels, TikTok, Shorts
-- length: 44.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 55.9s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Customer report (hookscore 54.2 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-38 + Part 4 comparison (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: And coffee works really well. The honey balances the bitterness.
 SCREEN: COFFEE + HONEY
 VISUAL: Stirring the coffee / first sip
 
-### 7. SERIES (0:34.5-0:41.6)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:34.5-0:40.5)
+SAY: If black seed oil never worked out for you, try this in your coffee tomorrow morning.
+SCREEN: TRY IT IN YOUR COFFEE
+VISUAL: Coffee cup / spoon
+
+### 8. SERIES (0:40.5-0:49.1)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:41.6-0:44.6)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:49.1-0:55.9)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, coffee in hand
 

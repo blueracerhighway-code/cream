@@ -1,7 +1,7 @@
 # Script 39: Mostly 2 people
 
 - platform: Reels, TikTok, Shorts
-- length: 38.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 48.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 51.8 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-23b + Part 1 team (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: Owning a business means you choose your own hours. Which can mean choosing 
 SCREEN: CHOOSE YOUR HOURS
 VISUAL: Clock / face, dry smile
 
-### 7. SERIES (0:28.1-0:35.6)
-SAY: This is day X of building a honey company with my sister in my parents' house. Y jars to go.
+### 7. BRIDGE (0:28.1-0:34.1)
+SAY: So when your order shows up, there's a good chance my sister or I packed it.
+SCREEN: PACKED BY US
+VISUAL: Packing a box / tape
+
+### 8. SERIES (0:34.1-0:42)
+SAY: Anyways, this is day X of building a honey company with my sister in my parents' house. Y jars to go.
 VISUAL: Sister's hands labeling (with her OK) / jar placed in a row
 
-### 8. CTA (0:35.6-0:38.6)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:42-0:48.8)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

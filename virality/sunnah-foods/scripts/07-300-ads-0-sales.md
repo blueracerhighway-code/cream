@@ -1,7 +1,7 @@
 # Script 07: $300 on ads, $0 sales
 
 - platform: Reels, TikTok, Shorts
-- length: 46.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 58.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Payoff (loss) (hookscore 80.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-29 (Master Script Source Document)
@@ -42,12 +42,22 @@ SAY: Then one campaign made back two times what it spent. Now I run my own, and 
 SCREEN: ~2 SALES A DAY
 VISUAL: Orders page / packing two boxes
 
-### 6. SERIES (0:36.4-0:43.5)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. LANDING (0:36.4-0:41.3)
+SAY: Every one of those sales gets me a little closer to my goal.
+SCREEN: CLOSER TO THE GOAL
+VISUAL: Packing a box
+
+### 7. BRIDGE (0:41.2-0:44.2)
+SAY: Follow along to see if I get there.
+SCREEN: WILL I MAKE IT?
+VISUAL: Face, close
+
+### 8. SERIES (0:44.2-0:51.8)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:43.5-0:46.5)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:51.8-0:58.5)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

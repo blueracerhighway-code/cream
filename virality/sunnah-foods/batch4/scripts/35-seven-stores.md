@@ -1,7 +1,7 @@
 # Script 35: 7 stores, 0 sales
 
 - platform: Reels, TikTok, Shorts
-- length: 33.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 43.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 54.8 OK, payoff LEADS)
 - keyword: HONEY
 - story: S-25 (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: Walking in directly is still the best thing that's worked for me.
 SCREEN: STILL MY #1 STRATEGY
 VISUAL: Face, close
 
-### 7. SERIES (0:23.6-0:30.7)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:23.6-0:29.2)
+SAY: And if my honey isn't in a store near you yet, it ships across Canada.
+SCREEN: NOT NEAR YOU? IT SHIPS.
+VISUAL: Shipping box / map of Canada
+
+### 8. SERIES (0:29.2-0:36.8)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:30.8-0:33.8)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:36.8-0:43.5)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

@@ -1,7 +1,7 @@
 # Script 38: 15 years to Medina
 
 - platform: Reels, TikTok, Shorts
-- length: 45.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 54.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 58.0 OK, payoff LEADS)
 - keyword: HONEY
 - story: Part 1 original plan + S-48 (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: This business didn't start as a plan to move there. But now it could be. Ru
 SCREEN: MEDINA, INSHALLAH
 VISUAL: Jar / Medina photo / face
 
-### 6. SERIES (0:35.6-0:42.7)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:35.6-0:40.5)
+SAY: Follow my journey to see if I'll be able to achieve my goals.
+SCREEN: WILL I MAKE IT?
+VISUAL: Face, close / Medina photo
+
+### 7. SERIES (0:40.5-0:48)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:42.8-0:45.8)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:48-0:54.8)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

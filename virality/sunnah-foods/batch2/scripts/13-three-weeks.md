@@ -1,7 +1,7 @@
 # Script 13: 3 weeks per jar
 
 - platform: Reels, TikTok, Shorts
-- length: 41.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 51.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Time Anchor (hookscore 52.0 OK, payoff LEADS)
 - keyword: HONEY
 - story: Part 4 how it's made (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: That's why it comes out smooth and spreadable, not runny.
 SCREEN: SMOOTH. NOT RUNNY.
 VISUAL: Knife spreading on toast in slow motion
 
-### 7. SERIES (0:31.5-0:38.6)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:31.5-0:36.4)
+SAY: 3 weeks to make. 2 to 5 days to get to your door.
+SCREEN: 3 WEEKS -> YOUR DOOR
+VISUAL: Calendar / shipping box
+
+### 8. SERIES (0:36.4-0:45)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:38.6-0:41.6)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:45-0:51.8)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

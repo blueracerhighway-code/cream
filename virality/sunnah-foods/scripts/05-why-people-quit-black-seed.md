@@ -1,7 +1,7 @@
 # Script 05: Why people quit black seed
 
 - platform: Reels, TikTok, Shorts
-- length: 46.1s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 57.4s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Mistake (educational) (hookscore 54.9 OK, payoff LEADS)
 - keyword: HONEY
 - story: Part 5 education + Part 7 compliance gap (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: One spoon in the morning. Or in your coffee.
 SCREEN: 1 SPOON A DAY
 VISUAL: Spoon into coffee / spoon after Fajr, window light
 
-### 7. SERIES (0:36-0:43.1)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:36-0:42)
+SAY: If you've quit black seed before because of the taste, this is the version to try.
+SCREEN: QUIT BEFORE? TRY THIS.
+VISUAL: Face / jar
+
+### 8. SERIES (0:42-0:50.6)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:43.1-0:46.1)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:50.6-0:57.4)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

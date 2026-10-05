@@ -1,7 +1,7 @@
 # Script 02: 200 kilos of sludge
 
 - platform: Reels, TikTok, Shorts
-- length: 44.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 57.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Mistake / Cost (hookscore 77.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-22 (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: Small formula mistakes become huge problems. Now precision is everything.
 SCREEN: PRECISION > SPEED
 VISUAL: Scale reading / labeled jars lined up
 
-### 7. SERIES (0:34.1-0:41.2)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. LANDING (0:34.1-0:39)
+SAY: So when you open a jar now, you're tasting a very expensive lesson.
+SCREEN: AN EXPENSIVE LESSON
+VISUAL: Jar opening / spoon pull
+
+### 8. BRIDGE (0:39-0:43.5)
+SAY: Stick around. There are a lot more mistakes where that came from.
+SCREEN: MORE MISTAKES COMING
+VISUAL: Face, dry smile
+
+### 9. SERIES (0:43.5-0:51)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:41.2-0:44.2)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:51-0:57.8)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame, jar in hand
 

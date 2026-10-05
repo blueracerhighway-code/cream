@@ -1,7 +1,7 @@
 # Script 10: 200 jars before my dad believed
 
 - platform: Reels, TikTok, Shorts
-- length: 41.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 54.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Payoff (milestone) (hookscore 77.8 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-49 (Master Script Source Document)
@@ -47,12 +47,22 @@ SAY: But telling them business can work isn't enough. The only real proof is res
 SCREEN: PROOF = RESULTS
 VISUAL: Face, close
 
-### 7. SERIES (0:30.8-0:38.2)
-SAY: This is day X of building a honey company with my sister in my parents' house. Y jars to go.
+### 7. LANDING (0:30.8-0:36.8)
+SAY: So that's what this series is. Me trying to prove it, 1 jar at a time.
+SCREEN: PROVING IT, 1 JAR AT A TIME
+VISUAL: Jar placed on a row
+
+### 8. BRIDGE (0:36.8-0:39.4)
+SAY: Follow along and see if I can.
+SCREEN: WATCH ME TRY
+VISUAL: Face, close
+
+### 9. SERIES (0:39.4-0:47.3)
+SAY: Anyways, this is day X of building a honey company with my sister in my parents' house. Y jars to go.
 VISUAL: Sister's hands labeling jars (with her OK) / jar placed in a row
 
-### 8. CTA (0:38.2-0:41.2)
-SAY: Comment HONEY and I'll send you the link.
+### 10. CTA (0:47.2-0:54)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

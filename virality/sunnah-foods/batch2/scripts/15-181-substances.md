@@ -1,7 +1,7 @@
 # Script 15: 181 substances in raw honey
 
 - platform: Reels, TikTok, Shorts
-- length: 42.0s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 53.2s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: The Statistic (hookscore 56.2 OK, payoff LEADS)
 - keyword: HONEY
 - story: Part 5 raw vs commercial honey + S-21 (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: Mine is raw and unpasteurized, from a small Alberta beekeeper. And the hone
 SCREEN: RAW. UNPASTEURIZED. ALBERTA.
 VISUAL: Farm / beekeeper's hives / jar
 
-### 6. SERIES (0:31.9-0:39)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:31.9-0:37.9)
+SAY: If you care where your honey comes from, this is why I built it this way.
+SCREEN: KNOW WHERE IT'S FROM
+VISUAL: Farm / jar
+
+### 7. SERIES (0:37.9-0:46.5)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:39-0:42)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:46.5-0:53.2)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

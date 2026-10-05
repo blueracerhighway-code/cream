@@ -1,7 +1,7 @@
 # Script 21: You taste it for hours
 
 - platform: Reels, TikTok, Shorts
-- length: 45.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 56.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Problem-Agitate-Solution (hookscore 50.5 OK, payoff LEADS)
 - keyword: HONEY
 - story: Problem: the taste (Part 6 pain point + customer quotes) (Master Script Source Document)
@@ -47,12 +47,17 @@ SAY: You still taste the black seed. Just without the overpowering aftertaste.
 SCREEN: NO HARSH AFTERTASTE
 VISUAL: First-taste reaction clip from an event (with permission)
 
-### 7. SERIES (0:35.6-0:42.7)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 7. BRIDGE (0:35.6-0:41.2)
+SAY: So if the oil isn't working for you, don't quit black seed. Change the format.
+SCREEN: CHANGE THE FORMAT
+VISUAL: Oil bottle set aside / jar in front
+
+### 8. SERIES (0:41.2-0:49.9)
+SAY: If you're new here, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 8. CTA (0:42.8-0:45.8)
-SAY: Comment HONEY and I'll send you the link.
+### 9. CTA (0:49.9-0:56.6)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 

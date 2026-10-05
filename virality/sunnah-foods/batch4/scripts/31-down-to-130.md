@@ -1,7 +1,7 @@
 # Script 31: Down to $130
 
 - platform: Reels, TikTok, Shorts
-- length: 45.8s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- length: 53.6s at 160 wpm (ASSUMED pace, not yet measured from his videos)
 - formula: Founder storytime (hookscore 78.0 STRONG, payoff LEADS)
 - keyword: HONEY
 - story: S-51 (Master Script Source Document)
@@ -42,12 +42,17 @@ SAY: Once I sell $11,786 worth of jars, I'm back at zero. Then it can start maki
 SCREEN: BACK TO $0 FIRST
 VISUAL: Notes app: $11,786 with a progress line
 
-### 6. SERIES (0:35.6-0:42.7)
-SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+### 6. BRIDGE (0:35.6-0:39.4)
+SAY: Follow along to see if I get back to zero.
+SCREEN: BACK TO ZERO?
+VISUAL: Face, close / jar row
+
+### 7. SERIES (0:39.4-0:46.9)
+SAY: Anyways, this is day X of selling black seed honey until I can afford to get married. Y jars left.
 VISUAL: Jar placed in a row
 
-### 7. CTA (0:42.8-0:45.8)
-SAY: Comment HONEY and I'll send you the link.
+### 8. CTA (0:46.9-0:53.6)
+SAY: Comment HONEY and I'll send you the link. It comes with a 77-day money-back guarantee.
 SCREEN: Comment "HONEY"
 VISUAL: Face full frame
 
