@@ -1,0 +1,68 @@
+# Script 37: The boss who hated GPS
+
+- platform: Reels, TikTok, Shorts
+- length: 34.5s at 160 wpm (ASSUMED pace, not yet measured from his videos)
+- formula: Founder storytime (hookscore 81.4 STRONG, payoff LEADS)
+- keyword: HONEY
+- story: S-05 (Master Script Source Document)
+- based on: founder-led origin pattern (Poppi founder video, per NoGood) + batch 1 payoff-first hooks
+- series overlay: Upper-middle, 0:00-0:03, same font every video: small "DAY X" above large "Y JARS UNTIL I CAN GET MARRIED"
+
+## Hook options (hookscore.py)
+
+| score | spoken | on screen |
+| --- | --- | --- |
+| 81.4 STRONG | My boss drove 30 minutes the wrong way because he hated GPS. | 30 MIN THE WRONG WAY |
+| 75.0 STRONG | 30 minutes in the wrong direction, because my boss refused to trust GPS. | HE HATED GPS |
+
+## Script
+
+### 1. HOOK (0:00-0:04.5)
+SAY: My boss drove 30 minutes the wrong way because he hated GPS.
+SCREEN: 30 MIN THE WRONG WAY
+VISUAL: Face, straight / phone map
+
+### 2. PROOF (0:04.5-0:10.1)
+SAY: This was my labor job. He used to make fun of me for using GPS.
+SCREEN: HE MOCKED THE GPS
+VISUAL: Face, dry
+
+### 3. STEP (0:10.1-0:15.7)
+SAY: One day, the GPS showed we were going the wrong direction. I told him once.
+SCREEN: I TOLD HIM ONCE
+VISUAL: Map with a wrong-way arrow
+
+### 4. REHOOK (0:15.8-0:19.5)
+SAY: He ignored me, and kept making fun of the GPS.
+SCREEN: IGNORED
+VISUAL: Face, long blink
+
+### 5. PAYOFF (0:19.5-0:24.4)
+SAY: About 30 minutes later, he realized we were going to the wrong address.
+SCREEN: 30 MINUTES LATER
+VISUAL: Clock jump / face, deadpan
+
+### 6. SERIES (0:24.4-0:31.5)
+SAY: This is day X of selling black seed honey until I can afford to get married. Y jars left.
+VISUAL: Jar placed in a row
+
+### 7. CTA (0:31.5-0:34.5)
+SAY: Comment HONEY and I'll send you the link.
+SCREEN: Comment "HONEY"
+VISUAL: Face full frame
+
+## Caption
+
+Comment HONEY and I'll send you the link.
+
+My old boss made fun of me for using GPS, then drove 30 minutes the wrong way.
+Storytime from my labor job, before I started selling black seed honey.
+
+## Hashtags
+
+#storytime #worststories #foundersjourney #blackseedhoney
+
+## Cover
+
+COVER: HE HATED GPS
+TITLE: My boss drove 30 minutes the wrong way
